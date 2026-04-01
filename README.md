@@ -22,7 +22,21 @@ O projeto simula uma loja virtual com funcionalidades básicas de compra.
 - 🎠 Carrossel de produtos com Bootstrap 5
 - 📌 Header fixo ao rolar a página
 - 📱 Links de WhatsApp e Instagram ilustrativos (pendentes de configuração)  
-- 🔗 Links do rodapé ilustrativos< (não funcionais) 
+- 🔗 Links do rodapé ilustrativos< (não funcionais)
+
+  ## 📁 Estrutura do Projeto
+```
+lira-makes/
+│
+├── index.html
+├── style.css
+├── img/
+│ ├── (imagens dos produtos)
+│
+├── logoliramakes.jpg
+├── README.md
+|
+```
 
 ## 🔗 Acesse o projeto
 
