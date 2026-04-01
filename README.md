@@ -64,7 +64,7 @@ Este projeto foi importante para desenvolver:
 
 - <a href="https://github.com/dvinacioo">Davi Inácio</a>
 - <a href="https://github.com/isabellacarolima">Isabella Caroline</a>
-- Lucas Rafael
+- <a href="https://github.com/Lorin099">Lucas Rafael</a>
 
 ## 📄 Licença
 
