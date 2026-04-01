@@ -1,6 +1,6 @@
 # 💄 Lira Makes
 
-Projeto de e-commerce desenvolvido como trabalho em grupo no curso <a href="https://github.com/dvinacioo/PROZ-Curso-T-Des.-Sistemas-">Técnico em Desenvolvimento de Sistemas</a>.
+Projeto de e-commerce desenvolvido como trabalho em grupo do <a href="https://github.com/dvinacioo/PROZ-Curso-T-Des.-Sistemas-">curso Técnico em Desenvolvimento de Sistemas da PROZ</a>.
 
 ## 🚀 Sobre o projeto
 
@@ -27,13 +27,12 @@ O projeto simula uma loja virtual com funcionalidades básicas de compra.
   ## 📁 Estrutura do Projeto
 ```
 lira-makes/
-│
-├── index.html
-├── style.css
 ├── img/
 │ ├── (imagens dos produtos)
-│
+├── index.html
 ├── logoliramakes.jpg
+├── style.css
+│
 ├── README.md
 |
 ```
@@ -63,8 +62,8 @@ Este projeto foi importante para desenvolver:
 
 ## 👨‍💻 Integrantes
 
-- Davi Inácio
-- Isabella Caroline
+- <a href="https://github.com/dvinacioo">Davi Inácio</a>
+- <a href="https://github.com/isabellacarolima">Isabella Caroline</a>
 - Lucas Rafael
 
 ## 📄 Licença
